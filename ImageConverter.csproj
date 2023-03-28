@@ -6,11 +6,11 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
-    <ApplicationIcon>imageconverter.ico</ApplicationIcon>
+    <ApplicationIcon>image-processing.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="imageconverter.ico" />
+    <Content Include="image-processing.ico" />
   </ItemGroup>
 
   <ItemGroup>
